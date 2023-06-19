@@ -183,7 +183,7 @@ landingContent:
           - text: Publish Android apps
             url: android/deployment/index.md
           - text: Publish iOS apps
-            url: ios/deployment/index.md
+            url: ios/deployment/index.md 
           - text: Publish Mac Catalyst apps
             url: mac-catalyst/deployment/index.md
           - text: Publish Windows apps
